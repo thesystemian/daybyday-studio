@@ -4,7 +4,7 @@ from datetime import datetime
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
 PODCAST_TITLE = "Day By Day English"
-PODCAST_LINK = "https://your-website.com"
+PODCAST_LINK = "https://daybydayenglish.netlify.app"
 PODCAST_DESCRIPTION = "Your daily English podcast to grow slowly, day by day."
 PODCAST_AUTHOR = "Dax Ricaud"
 
@@ -14,7 +14,7 @@ SubElement(channel, "title").text = PODCAST_TITLE
 SubElement(channel, "link").text = PODCAST_LINK
 SubElement(channel, "description").text = PODCAST_DESCRIPTION
 SubElement(channel, "language").text = "en-us"
-SubElement(channel, "managingEditor").text = f"{PODCAST_AUTHOR} (contact@your-website.com)"
+SubElement(channel, "managingEditor").text = f"{PODCAST_AUTHOR} (daybydayenglish@protonmail.com)"
 
 episodes_path = Path("episodes")
 for episode_folder in sorted(episodes_path.iterdir()):
