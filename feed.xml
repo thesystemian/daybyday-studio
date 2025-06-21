@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
   <channel>
     <title>Day By Day English</title>
     <link>https://daybydayenglish.netlify.app</link>
     <language>en-us</language>
     <copyright>Copyright 2025 Dax Ricaud</copyright>
 
+    <atom:link href="https://daybydayenglish.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:subtitle>Learn English day by day — slowly and clearly.</itunes:subtitle>
     <itunes:author>Dax Ricaud</itunes:author>
     <itunes:summary>
-      Welcome to Day By Day English — The Podcast. I speak slowly. I learn English with you. I created this podcast to help you grow day by day.
+      Welcome to Day By Day English — The Podcast. I speak slowly. I learn English with you. I created this podcast to help you speak and understand better, day by day.
     </itunes:summary>
     <description>
-      Welcome to Day By Day English — The Podcast. I speak slowly. I learn English with you. I created this podcast to help you grow day by day.
+      Welcome to Day By Day English — The Podcast. I speak slowly. I learn English with you. I created this podcast to help you speak and understand better, day by day.
     </description>
 
     <itunes:owner>
@@ -22,10 +27,9 @@
 
     <itunes:image href="https://daybydayenglish.netlify.app/assets/cover.jpg"/>
     <itunes:category text="Education"/>
-    <itunes:explicit>no</itunes:explicit>
 
     <item>
-      <title>Episode 1 — Welcome 👋</title>
+      <title>Episode 1 – Welcome 👋</title>
       <itunes:summary>Hello, and welcome to DBDE. I speak slowly and clearly. Let’s grow together.</itunes:summary>
       <description>Hello, and welcome to DBDE. I speak slowly and clearly. Let’s grow together.</description>
       <pubDate>Fri, 20 Jun 2025 09:00:00 +0000</pubDate>
