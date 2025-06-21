@@ -9,10 +9,10 @@
     <itunes:subtitle>Learn English day by day — slowly and clearly.</itunes:subtitle>
     <itunes:author>Dax Ricaud</itunes:author>
     <itunes:summary>
-      Welcome to Day By Day English — The Podcast. I speak slowly. I learn English with you. I created this podcast to share my progress — and help you improve too.
+      Welcome to Day By Day English — The Podcast. I speak slowly. I learn English with you. I created this podcast to help you grow day by day.
     </itunes:summary>
     <description>
-      Welcome to Day By Day English — The Podcast. I speak slowly. I learn English with you. I created this podcast to share my progress — and help you improve too.
+      Welcome to Day By Day English — The Podcast. I speak slowly. I learn English with you. I created this podcast to help you grow day by day.
     </description>
 
     <itunes:owner>
@@ -22,6 +22,7 @@
 
     <itunes:image href="https://daybydayenglish.netlify.app/assets/cover.jpg"/>
     <itunes:category text="Education"/>
+    <itunes:explicit>no</itunes:explicit>
 
     <item>
       <title>Episode 1 — Welcome 👋</title>
@@ -33,6 +34,6 @@
       <enclosure url="https://daybydayenglish.netlify.app/audio/episode1.mp3" type="audio/mpeg"/>
       <itunes:duration>3:24</itunes:duration>
     </item>
+
   </channel>
 </rss>
->>>>>>> bdc72d7 (Update feed.xml with valid RSS structure)
