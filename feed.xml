@@ -1,43 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
 
-  <channel>
-    <title>Day By Day English</title>
-    <link>https://daybydayenglish.netlify.app</link>
-    <language>en-us</language>
-    <copyright>Copyright 2025 Dax Ricaud</copyright>
+<channel>
+  <title>Day By Day English</title>
+  <link>https://daybydayenglish.netlify.app</link>
+  <language>en</language>
 
-    <atom:link href="https://daybydayenglish.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:subtitle>Learn English day by day — slowly and clearly.</itunes:subtitle>
-    <itunes:author>Dax Ricaud</itunes:author>
-    <itunes:summary>
-      Welcome to Day By Day English — The Podcast. I speak slowly. I learn English with you. I created this podcast to help you speak and understand better, day by day.
-    </itunes:summary>
-    <description>
-      Welcome to Day By Day English — The Podcast. I speak slowly. I learn English with you. I created this podcast to help you speak and understand better, day by day.
-    </description>
+  <atom:link href="https://daybydayenglish.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
 
-    <itunes:owner>
-      <itunes:name>Dax Ricaud</itunes:name>
-      <itunes:email>daybydayenglish@protonmail.com</itunes:email>
-    </itunes:owner>
+  <description>
+    Day By Day English is a podcast for beginners and English learners. I speak slowly and clearly, using short sentences and simple words. Each episode is short and focused on pronunciation, speaking, and listening. Together, we grow step by step — day by day. 🇬🇧✨
+  </description>
 
-    <itunes:image href="https://daybydayenglish.netlify.app/assets/cover.jpg"/>
-    <itunes:category text="Education"/>
+  <itunes:author>Dax Ricaud</itunes:author>
+  <itunes:summary>
+    Day By Day English is a podcast for beginners and English learners. I speak slowly and clearly, using short sentences and simple words. Each episode is short and focused on pronunciation, speaking, and listening. Together, we grow step by step — day by day. 🇬🇧✨
+  </itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
 
-    <item>
-      <title>Episode 1 – Welcome 👋</title>
-      <itunes:summary>Hello, and welcome to DBDE. I speak slowly and clearly. Let’s grow together.</itunes:summary>
-      <description>Hello, and welcome to DBDE. I speak slowly and clearly. Let’s grow together.</description>
-      <pubDate>Fri, 20 Jun 2025 09:00:00 +0000</pubDate>
-      <guid>episode-1</guid>
-      <link>https://daybydayenglish.netlify.app/audio/episode1.mp3</link>
-      <enclosure url="https://daybydayenglish.netlify.app/audio/episode1.mp3" type="audio/mpeg"/>
-      <itunes:duration>3:24</itunes:duration>
-    </item>
+  <itunes:owner>
+    <itunes:name>Dax Ricaud</itunes:name>
+    <itunes:email>daybydayenglish@protonmail.com</itunes:email>
+  </itunes:owner>
 
-  </channel>
+  <itunes:image href="https://daybydayenglish.netlify.app/assets/cover.jpg"/>
+  <itunes:category text="Education"/>
+
+  <item>
+    <title>Episode 1 – Welcome 👋🏽</title>
+    <itunes:summary>Hello, and welcome to DBDE. I speak slowly and clearly. Let’s grow together!</itunes:summary>
+    <description>Hello, and welcome to DBDE. I speak slowly and clearly. Let’s grow together!</description>
+    <pubDate>Fri, 20 Jun 2025 09:00:00 +0000</pubDate>
+    <enclosure url="https://daybydayenglish.netlify.app/dbde1.mp3" type="audio/mpeg"/>
+    <guid>https://daybydayenglish.netlify.app/dbde1.mp3</guid>
+  </item>
+
+  <item>
+    <title>Episode 2 – Feelings 💖</title>
+    <itunes:summary>Learn simple English sentences to express your feelings.</itunes:summary>
+    <description>Learn simple English sentences to express your feelings.</description>
+    <pubDate>Fri, 27 Jun 2025 09:00:00 +0000</pubDate>
+    <enclosure url="https://daybydayenglish.netlify.app/dbde2.mp3" type="audio/mpeg"/>
+    <guid>https://daybydayenglish.netlify.app/dbde2.mp3</guid>
+  </item>
+
+  <item>
+    <title>Episode 3 – Summer and Vacation in France ☀️🇫🇷</title>
+    <itunes:summary>We talk about summer and holidays in France — in simple English.</itunes:summary>
+    <description>We talk about summer and holidays in France — in simple English.</description>
+    <pubDate>Fri, 04 Jul 2025 09:00:00 +0000</pubDate>
+    <enclosure url="https://daybydayenglish.netlify.app/dbde3.mp3" type="audio/mpeg"/>
+    <guid>https://daybydayenglish.netlify.app/dbde3.mp3</guid>
+  </item>
+
+</channel>
 </rss>
+
