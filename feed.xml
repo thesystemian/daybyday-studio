@@ -14,7 +14,7 @@
     Day By Day English is a podcast for beginners and English learners. I speak slowly and clearly, using short sentences and simple words. Each episode is short and focused on pronunciation, speaking, and listening. Together, we grow step by step — day by day. 🇬🇧✨
   </description>
 
-  <itunes:author>Dax Ricaud</itunes:author>
+  <itunes:author>Dax – Day By Day English</itunes:author>
   <itunes:summary>
     Day By Day English is a podcast for beginners and English learners. I speak slowly and clearly, using short sentences and simple words. Each episode is short and focused on pronunciation, speaking, and listening. Together, we grow step by step — day by day. 🇬🇧✨
   </itunes:summary>
@@ -29,32 +29,28 @@
   <itunes:category text="Education"/>
 
   <item>
-    <title>Episode 1 – Welcome 👋🏽</title>
-    <itunes:summary>Hello, and welcome to DBDE. I speak slowly and clearly. Let’s grow together!</itunes:summary>
-    <description>Hello, and welcome to DBDE. I speak slowly and clearly. Let’s grow together!</description>
-    <pubDate>Fri, 20 Jun 2025 09:00:00 +0000</pubDate>
+    <title>Welcome 👋🏽</title>
+    <description>In this episode, I introduce myself and the goal of Day By Day English.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <enclosure url="https://daybydayenglish.netlify.app/dbde1.mp3" type="audio/mpeg"/>
     <guid>https://daybydayenglish.netlify.app/dbde1.mp3</guid>
   </item>
 
   <item>
-    <title>Episode 2 – Feelings 💖</title>
-    <itunes:summary>Learn simple English sentences to express your feelings.</itunes:summary>
+    <title>Feelings 💖</title>
     <description>Learn simple English sentences to express your feelings.</description>
-    <pubDate>Fri, 27 Jun 2025 09:00:00 +0000</pubDate>
+    <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
     <enclosure url="https://daybydayenglish.netlify.app/dbde2.mp3" type="audio/mpeg"/>
     <guid>https://daybydayenglish.netlify.app/dbde2.mp3</guid>
   </item>
 
   <item>
-    <title>Episode 3 – Summer and Vacation in France ☀️🇫🇷</title>
-    <itunes:summary>We talk about summer and holidays in France — in simple English.</itunes:summary>
+    <title>Summer and Vacation in France ☀️🇫🇷</title>
     <description>We talk about summer and holidays in France — in simple English.</description>
-    <pubDate>Fri, 04 Jul 2025 09:00:00 +0000</pubDate>
+    <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
     <enclosure url="https://daybydayenglish.netlify.app/dbde3.mp3" type="audio/mpeg"/>
     <guid>https://daybydayenglish.netlify.app/dbde3.mp3</guid>
   </item>
 
 </channel>
 </rss>
-
