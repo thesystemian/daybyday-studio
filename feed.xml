@@ -1,4 +1,4 @@
-k<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>Day By Day English</title>
@@ -9,6 +9,10 @@ Day By Day English is a podcast for beginners and English learners. I speak slow
 </description>
 <itunes:author>Dax – Day By Day English</itunes:author>
 <itunes:email>daybydayenglish@protonmail.com</itunes:email>
+<itunes:owner>
+    <itunes:name>Dax – Day By Day English</itunes:name>
+    <itunes:email>daybydayenglish@protonmail.com</itunes:email>
+</itunes:owner>
 <itunes:summary>
 Day By Day English is a podcast for beginners and English learners. I speak slowly and clearly, using short sentences and simple words. Each episode is short and focused on pronunciation, speaking, and listening. Together, we grow step by step — day by day. 🇬🇧✨
 </itunes:summary>
@@ -19,12 +23,12 @@ Day By Day English is a podcast for beginners and English learners. I speak slow
 <item>
 <title>Welcome 👋🏽</title>
 <description>
-Welcome to Day By Day English! This is an introduction to our podcast for English learners.
+In this episode, I introduce myself and the goal of Day By Day English.
 </description>
 <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-<enclosure url="https://daybydayenglish.netlify.app/dbde1.mp3" type="audio/mpeg" length="0"/>
+<enclosure url="https://daybydayenglish.netlify.app/dbde1.mp3" type="audio/mpeg" length="2500000"/>
 <guid>https://daybydayenglish.netlify.app/dbde1.mp3</guid>
-<itunes:duration>00:00:00</itunes:duration>
+<itunes:duration>00:02:30</itunes:duration>
 </item>
 
 <item>
@@ -33,9 +37,9 @@ Welcome to Day By Day English! This is an introduction to our podcast for Englis
 Learn simple English sentences to express your feelings.
 </description>
 <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
-<enclosure url="https://daybydayenglish.netlify.app/dbde2.mp3" type="audio/mpeg" length="0"/>
+<enclosure url="https://daybydayenglish.netlify.app/dbde2.mp3" type="audio/mpeg" length="3000000"/>
 <guid>https://daybydayenglish.netlify.app/dbde2.mp3</guid>
-<itunes:duration>00:00:00</itunes:duration>
+<itunes:duration>00:03:00</itunes:duration>
 </item>
 
 <item>
@@ -44,9 +48,9 @@ Learn simple English sentences to express your feelings.
 We talk about summer and holidays in France — in simple English.
 </description>
 <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-<enclosure url="https://daybydayenglish.netlify.app/dbde3.mp3" type="audio/mpeg" length="0"/>
+<enclosure url="https://daybydayenglish.netlify.app/dbde3.mp3" type="audio/mpeg" length="4000000"/>
 <guid>https://daybydayenglish.netlify.app/dbde3.mp3</guid>
-<itunes:duration>00:00:00</itunes:duration>
+<itunes:duration>00:04:00</itunes:duration>
 </item>
 
 </channel>
